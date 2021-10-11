@@ -1,4 +1,0 @@
-User-agent: *
-Crawl-delay: 1
-Host: https://dz6a-beta.netlify.app
-Sitemap: https://dz6a-beta.netlify.app/Sitemap.xml
